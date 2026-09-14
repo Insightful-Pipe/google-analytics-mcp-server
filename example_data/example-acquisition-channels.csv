@@ -1,0 +1,7 @@
+channel,sessions,users,new_users,bounce_rate,pages_per_session,avg_session_duration,conversions,conversion_rate
+Organic Search,45200,38500,22000,42.3%,3.8,00:04:12,2850,6.30%
+Paid Search,28400,24200,18500,38.5%,4.2,00:04:45,2100,7.39%
+Social,18600,15800,12400,52.1%,2.6,00:02:38,680,3.66%
+Direct,32100,26400,8200,45.8%,3.4,00:03:28,1920,5.98%
+Email,12800,10200,2400,35.2%,4.8,00:05:12,1450,11.33%
+Referral,8500,7200,4800,48.6%,3.1,00:03:02,420,4.94%
